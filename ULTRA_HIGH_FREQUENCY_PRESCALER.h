@@ -42,3 +42,4 @@ private:
   //
 protected:
 }
+#endif
