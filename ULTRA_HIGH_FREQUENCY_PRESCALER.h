@@ -1,5 +1,5 @@
 /*
-Pin Number Symbol Function
+Pin Number Symbol Function:
 ---------------------------
 1 - IN Input
 2 - VCC Power Supply Voltage
