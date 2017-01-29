@@ -21,3 +21,9 @@ Filename: ULTRA_HIGH_FREQUENCY_PRESCALER.h
 
 #define Input_Buffer
 #define Output_Buffer
+
+class ULTRA_HIGH_FREQUENCY_PRESCALER{
+public:
+private:
+protected:
+}
