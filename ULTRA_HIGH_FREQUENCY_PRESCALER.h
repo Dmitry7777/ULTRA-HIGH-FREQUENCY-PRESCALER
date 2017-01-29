@@ -21,6 +21,14 @@ Filename: ULTRA_HIGH_FREQUENCY_PRESCALER.h
 
 #define Input_Buffer
 #define Output_Buffer
+#define Divide_Ratio_SW1_HIGH 0x40 //1/64
+#define Divide_Ratio_SW1_LOW 0x80 //1/128
+#define Divide_Ratio_SW1_HIGH 0x80 //1/128
+#define Divide_Ratio_SW1_LOW 0x100 //1/256
+#define Divide_Ratio_SW2_HIGH 0x40 //1/64
+#define Divide_Ratio_SW2_LOW 0x80 //1/128
+#define Divide_Ratio_SW2_HIGH 0x80 //1/128
+#define Divide_Ratio_SW2_LOW 0x100 //1/256
 
 class ULTRA_HIGH_FREQUENCY_PRESCALER{
   ULTRA_HIGH_FREQUENCY_PRESCALER();
